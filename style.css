@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #eedea0;
+    position: sticky;
+    top: 0;
+    padding-bottom: 5px;
+}
+
+header h2{
+font-family: 'Kaushan Script', cursive;
+margin-left: 100px;
+font-size: xx-large;
+
+
+}
+
+span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+#c2{
+    margin-left: 20px;
+}
+
+#c3{
+    margin-left: 20px;
+}
+
+#c4{
+    margin-left: 20px;
+}
+
+#c1{
+   
+    margin-left: 500px;
+}
+
+#c5{
+   
+    margin-left: 20px;
+}
+
+#c6{
+    margin-left: 350px;    
+}
+
+#a{
+    color: rgb(255, 255, 255);
+    background-color: #353434;
+}
+
+#b{
+    color: rgb(255, 255, 255);
+    background-color:#313130;
+}
+
+
+
+
+h2:hover{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#menu1{
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+    background-color: #eedea0;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 70px;
+    
+}
+h5{
+    color: black;
+}
+.row{
+    background-color: #eedea0;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.col{
+    background-color: #090a0a;
+    width: 280px;
+    height: 400px;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+
+img{
+    height: 200px;
+    padding: 10px;
+    border-radius: 10%;
+
+}
+h4,h5,h6{
+    text-align: center;
+    color: azure;
+}
+h6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+h5{
+    font-size: small;
+}
+#btn{
+    color: chocolate;
+    padding: 10px;
+    margin: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+footer,p{
+    background-color: #dcd6c0;
+    width: 100%;
+    height: 60px;
+    color: white;
+}
+
+p,h3{
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+
+}
+
+.banner{
+    background-image: url(https://media.istockphoto.com/id/1312925246/photo/kala-chana-chaat-papdi-with-boiled-potato-tomato-onion-and-coriander-with-sprinkle-of-sev.jpg?s=2048x2048&w=is&k=20&c=7vkukIDlihyU-AnnFe4Kf7veGFWp2G6FaFgThwQBGYE=);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    
+
+    background-repeat: no-repeat;
+    
+    
+}
